@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Register - Sign Language Detection</title>
+  <link rel="stylesheet" href="style_local.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Create an Account</h1>
+    <p>Register a new account to use our system.</p>
+
+    <div class="form">
+      <input type="text" id="newUsername" placeholder="Enter a username">
+      <input type="password" id="newPassword" placeholder="Enter a password">
+      <button onclick="handleRegister()">Register</button>
+      <button class="back-btn" onclick="redirectToLogin()">Back to Login</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="script_local.js"></script>
+
+</body>
+</html>

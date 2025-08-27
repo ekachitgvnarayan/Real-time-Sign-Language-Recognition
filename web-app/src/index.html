@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real-Time Sign Language Detection</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap">
+  <link rel="stylesheet" href="style_local.css">
+</head>
+<body>
+
+  <div id="particles-js"></div>
+
+  <div class="container">
+    <h1 id="heading">Large Scale Image Classification For Real Time Sign Language Detection <br></h1>
+    <p>Detect sign language in real-time with ease, making communication more accessible and efficient. <br><span id="signin_continue"><b>Please sign in to continue.</b></span></p>
+
+    <div class="form">
+      <input type="text" id="username" placeholder="Username">
+      <input type="password" id="password" placeholder="Password">
+      <button onclick="handleLogin()">Sign In</button>
+      <button class="register-btn" onclick="redirectToRegister()">Register</button>
+    </div>
+
+    <div id="startApp" class="hidden">
+      <h2>Welcome!</h2>
+      <button onclick="startReactApp()" class="start-btn">Start App</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="script_local.js"></script>
+
+</body>
+</html>

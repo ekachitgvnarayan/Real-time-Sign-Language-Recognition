@@ -1,0 +1,16 @@
+pycache/
+*.pyc
+.ipynb_checkpoints
+venv/
+env/
+
+node_modules/
+build/
+dist/
+.env
+
+model-training/tensorflow_object_detection/workspace/images/
+model-training/tensorflow_object_detection/workspace/annotations/*.record
+
+.DS_Store
+Thumbs.db
