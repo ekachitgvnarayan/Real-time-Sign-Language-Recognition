@@ -126,10 +126,10 @@ The model is based on **SSD MobileNetV2 FPNLite 320x320** and was trained for ov
 
 ![TensorBoard Recall Graph](./docs/tensorboard-metrics/recall_metrics.png)
 
-## Sample Output Screen
+## 🖥️ Sample Output Screen
 
-![Alphabet A](./docs/screenshots/outputs/E.png)
-![Alphabet A](./docs/screenshots/outputs/T.png)
+![Alphabet E](./docs/screenshots/outputs/E.png)
+![Alphabet T](./docs/screenshots/outputs/T.png)
 
 ## 📜 Publication & Citation
 
