@@ -139,6 +139,7 @@ This project and its findings were published in the **International Journal of E
 -   **Journal**: IJETRM, Volume-09, Issue-03, March-2025
 -   **ISSN**: 2456-9348
 -   **DOI**: [zenodo DOI](https://doi.org/10.5281/zenodo.15089469)
+-   **openAIRE**: [openAIRE Journal](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.15089469)
 
 If you use this work, please cite it as follows:
 
