@@ -32,7 +32,7 @@ Interaction and communication for a person with hearing or speech impairments ca
 ## 📂 Project Structure
 
 The repository is organized into two main parts: model training and the web application.
-
+```
 sign-language-recognition/
 ├── .gitignore
 ├── LICENSE
@@ -55,7 +55,7 @@ sign-language-recognition/
 ├── journal_publication.pdf
 └── tensorboard-metrics/
 └── screenshots/
-
+```
 ## ⚙️ Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
